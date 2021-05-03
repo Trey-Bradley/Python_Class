@@ -1,2 +1,2 @@
 # Python_Class
-Notebook from class
+Notebooks from class
